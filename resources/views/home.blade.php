@@ -6,7 +6,8 @@
 
   <h1>Ventajas</h1>
   <p>Facilita la utilizacion de php</p>
-  <p></p>
-
-
+  <p>Contiene su propio servidor </p>
+  <h1>Desventajas</h1>
+  <p>Su instalacion depende de otros componentes</p>
+  <p>Esta compuesto por mcuhas carpetas y eso resulta confuso</p>
 @endsection
