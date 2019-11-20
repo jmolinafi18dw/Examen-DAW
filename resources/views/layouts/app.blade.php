@@ -13,7 +13,9 @@
             </div>
 
             <div class="links">
-                <a href="">Menu</a>
+                <a href="/">Menu</a>
+                <a href="tiendas/create">Crear tienda</a>
+                <a href="productos/index">Listado de productos</a>
                 <a href="git">git</a>
 
             </div>

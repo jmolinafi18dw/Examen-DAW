@@ -11,6 +11,15 @@ class shops extends Seeder
      */
     public function run()
     {
-        //
+    for ($i=1; $i <=3 ; $i++) { 
+        DB::table('shops')->insert([
+            'name' => Str::random(10),
+            'description' => Str::random(100),
+            'password' => Str::random(15),
+            'email' => Str::random(10).'@gmail.com',
+            'likes' => Str::random(5),
+            ]);
+    }         
+
     }
 }

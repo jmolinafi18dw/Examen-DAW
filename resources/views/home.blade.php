@@ -4,7 +4,9 @@
 
 @section('content')
 
-  Completa el ejercicio 1 y nombra AQUI al menos dos ventajas y dos desventajas que tenga el uso de un framework en el desarrollo de aplicaciones web.
+  <h1>Ventajas</h1>
+  <p>Facilita la utilizacion de php</p>
+  <p></p>
 
 
 @endsection

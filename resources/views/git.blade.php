@@ -4,7 +4,7 @@
 
 @section('content')
 
-  Introduce el resultado del ejercicio de git (ejercicio 2).
+  git checkout tarea1
 
 
 @endsection

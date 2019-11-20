@@ -24,7 +24,7 @@ class ShopController extends Controller
      */
     public function create()
     {
-        //
+        return view(('tiendas.create'));
     }
 
     /**
@@ -35,7 +35,7 @@ class ShopController extends Controller
      */
     public function store(Request $request)
     {
-        //
+        return view(('tiendas.store'));
     }
 
     /**
